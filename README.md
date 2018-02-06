@@ -2,8 +2,8 @@
 
 ### This repo contains the classes for SinglyLinkedList Implementation in java.
 
-## Node Class: LinkedList Data Object
+#### Node Class: LinkedList Data Object
 
-## SingleLinkedList: LinkedList Functions
+#### SingleLinkedList: LinkedList Functions
 
-## LinkedListTest Class: LinkedList functions testing examples
+#### LinkedListTest Class: LinkedList functions testing examples
