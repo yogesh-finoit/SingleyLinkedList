@@ -4,6 +4,6 @@
 
 #### Node Class: LinkedList Data Object
 
-#### SingleLinkedList: LinkedList Functions
+#### SingleLinkedList Class: LinkedList Functions
 
 #### LinkedListTest Class: LinkedList functions testing examples
